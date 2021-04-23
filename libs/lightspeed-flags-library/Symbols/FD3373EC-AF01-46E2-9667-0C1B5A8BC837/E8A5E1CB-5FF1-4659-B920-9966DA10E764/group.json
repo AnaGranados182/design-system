@@ -1,0 +1,126 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E8A5E1CB-5FF1-4659-B920-9966DA10E764",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3247FDD4-5DF8-41A1-9D20-C8EB9BD217B5"
+    },
+    {
+      "class": "rectangle",
+      "id": "3A5275EF-3FCE-4308-965E-C92F284E8149"
+    },
+    {
+      "class": "rectangle",
+      "id": "2DA5C9F1-B18E-4DE5-9B01-191BC1E0FE4B"
+    },
+    {
+      "class": "rectangle",
+      "id": "6404375D-47A4-4714-BDE1-5641D8C29284"
+    },
+    {
+      "class": "rectangle",
+      "id": "A670BDBD-C14B-415E-AF1C-F15CC5C65554"
+    },
+    {
+      "class": "group",
+      "id": "D072F480-737C-4979-9F85-D1DEB97833DD"
+    },
+    {
+      "class": "shapePath",
+      "id": "085A4120-4A31-457A-9291-6E6BEFB12BE5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "897C4CFF-1B71-46D7-BED7-75DFFD7FB2D2"
+    }
+  ],
+  "name": "Equatorial Guinea",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "F52D7964-BEFE-449F-891C-FF6BFDBF5050",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

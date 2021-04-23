@@ -1,0 +1,126 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "41E35CB7-9FAD-4AC7-95C8-F4A1BBC8D4A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "054B3E4D-FD8F-41D4-9341-21D3E387E7A7"
+    },
+    {
+      "class": "rectangle",
+      "id": "92BE5C6A-9BF1-4BDE-8CE8-3B04065DC8C8"
+    },
+    {
+      "class": "rectangle",
+      "id": "47ECDBA5-BDD4-4E61-8A64-FBF43CB75560"
+    },
+    {
+      "class": "rectangle",
+      "id": "BF969E69-886C-4762-A50D-4FB8C6E3E381"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "379A0E71-E560-4E07-BA01-DB19E4A331E5"
+    },
+    {
+      "class": "rectangle",
+      "id": "23DE775D-E350-4456-BD35-3B848CA6D277"
+    },
+    {
+      "class": "rectangle",
+      "id": "A370F11C-114F-4877-B5A8-2E5713E8C15B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A0983D9-C07A-4A80-807C-D6A46E0FADF1"
+    }
+  ],
+  "name": "Andorra",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D24FE54B-184D-46D5-92DA-EB85335D5C58",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

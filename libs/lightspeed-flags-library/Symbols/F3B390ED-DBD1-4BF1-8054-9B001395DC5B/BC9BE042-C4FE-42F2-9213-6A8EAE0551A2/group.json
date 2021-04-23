@@ -1,0 +1,122 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BC9BE042-C4FE-42F2-9213-6A8EAE0551A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "38D6BB6B-C4E6-4A8C-88E6-7F6DCB42EA11"
+    },
+    {
+      "class": "rectangle",
+      "id": "57E54B7A-4AA0-41BD-B3E7-361DFE72D42C"
+    },
+    {
+      "class": "rectangle",
+      "id": "98EFAF6F-DF8A-4721-ABDD-3B93B23D9BE7"
+    },
+    {
+      "class": "rectangle",
+      "id": "8240EAC6-00EB-4D48-8FAF-09EDC5F47EDC"
+    },
+    {
+      "class": "group",
+      "id": "477DACFC-026A-4B9A-BC96-15C1C9947BEF"
+    },
+    {
+      "class": "group",
+      "id": "83FE9F80-06A3-402C-9336-BC2D4D7B6012"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DD248CBC-1F77-478F-8A87-53B1E9EAEF61"
+    }
+  ],
+  "name": "Artsakh (Azerbaijan)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "7102FC92-218C-402F-A781-86D97D9D5B3C",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

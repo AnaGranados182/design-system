@@ -1,0 +1,130 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "38CE36B8-9457-4A31-A14C-AD8C13700B5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C9EC1E1A-3611-49AF-A2C2-883A81015447"
+    },
+    {
+      "class": "rectangle",
+      "id": "A3BB3F5D-D837-4E0E-BD13-5CB34625CC64"
+    },
+    {
+      "class": "rectangle",
+      "id": "52F91237-5B7C-41F6-A01D-0D2955B10210"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA2389E5-5E82-4240-B938-F87E234AA74C"
+    },
+    {
+      "class": "rectangle",
+      "id": "008FCD99-3FA8-4828-9995-2EE2A64BC6FD"
+    },
+    {
+      "class": "rectangle",
+      "id": "9CED94A8-770D-4ED6-B40B-739636CF5346"
+    },
+    {
+      "class": "rectangle",
+      "id": "41D80A76-F83E-486D-BCDE-7FC6A3C0E8A5"
+    },
+    {
+      "class": "rectangle",
+      "id": "A6C5F930-702F-4DB0-B13A-4973DBCE7C9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23D506B2-E483-465C-8847-EA1FC8F9D2A6"
+    }
+  ],
+  "name": "Uzbekistan ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "7FD03A97-D96C-42D8-BE47-1891F098A723",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

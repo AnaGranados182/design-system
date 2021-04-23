@@ -1,0 +1,138 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9F3B5222-9C9A-4449-9729-9E65102852EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "453DEF46-C09B-4440-A9AE-DBC584380C13"
+    },
+    {
+      "class": "rectangle",
+      "id": "E1884234-671C-4784-8928-D8E5E3C7DCE9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26B0A751-22A8-4CB0-ADF1-38DE75BC19DB"
+    },
+    {
+      "class": "rectangle",
+      "id": "90090C70-4CA2-4B9F-B533-C35577479EC6"
+    },
+    {
+      "class": "rectangle",
+      "id": "8D563E3D-78DC-4035-A78D-9E32DC8D5316"
+    },
+    {
+      "class": "oval",
+      "id": "D8A0FCD3-ABE6-4C4E-B23C-BDAFB1D8D7CA"
+    },
+    {
+      "class": "rectangle",
+      "id": "AB4F3788-F192-4795-9D9E-B069C7311CBC"
+    },
+    {
+      "class": "rectangle",
+      "id": "3A83F0D6-0148-4DAE-949D-F1F7FBB03926"
+    },
+    {
+      "class": "oval",
+      "id": "549FECD9-907E-419A-A738-4FEE815EA60F"
+    },
+    {
+      "class": "oval",
+      "id": "51D0529A-7DCE-49A0-981C-F979EF5EFC84"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F80C0EFA-6D6F-4696-97F6-A150174BA6CC"
+    }
+  ],
+  "name": "Prince Edward Island",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "93C2D30D-CE18-42E1-945A-533CFAA39C19",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

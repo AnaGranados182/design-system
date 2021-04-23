@@ -1,0 +1,126 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C743E41-7910-4434-B197-24C87DC16073",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E904EF54-2D97-4655-97C8-37F9580F62BB"
+    },
+    {
+      "class": "rectangle",
+      "id": "52C6B937-919E-4E0F-8B03-12FE2449DC5E"
+    },
+    {
+      "class": "rectangle",
+      "id": "5A880763-2CC8-4C2D-983A-7691AE969638"
+    },
+    {
+      "class": "rectangle",
+      "id": "4470BD0B-4765-49DF-AA46-69909DFB9C15"
+    },
+    {
+      "class": "rectangle",
+      "id": "AE35587A-205C-457F-A953-2A5AF138A86F"
+    },
+    {
+      "class": "oval",
+      "id": "5C00AE13-E47C-4621-9DB3-577985503AF5"
+    },
+    {
+      "class": "oval",
+      "id": "C15C469E-75AD-49F8-BAB2-A97A024ED268"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2058BE40-214B-4509-91FE-4331513DBBD7"
+    }
+  ],
+  "name": "Costa Rica",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "6EA0FAA2-5610-480E-B7D9-660719C3A043",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "894E6ECA-E0A1-4FD2-9A7C-F573C46B8A9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "95984382-C26B-4091-94B0-C322114E6C61"
+    },
+    {
+      "class": "rectangle",
+      "id": "A2F96957-A2D0-4B24-A3D9-FBB6B94530B2"
+    },
+    {
+      "class": "rectangle",
+      "id": "16BF9979-09E9-4832-A823-197C23242437"
+    },
+    {
+      "class": "rectangle",
+      "id": "F1843576-9DDF-43B4-905E-39903B856B76"
+    },
+    {
+      "class": "rectangle",
+      "id": "90836450-6334-48A0-8177-793AB240D6B2"
+    },
+    {
+      "class": "shapePath",
+      "id": "C9482829-565C-4FF8-8E5A-7F191A3680AE"
+    },
+    {
+      "class": "star",
+      "id": "CD2C2814-0054-418A-BA53-418FBE306782"
+    },
+    {
+      "class": "rectangle",
+      "id": "554AB2EB-95BB-40A1-A142-A0AB20BAD8A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AD61F7B6-3F4A-480A-AAC6-7AC75C5FD9A7"
+    }
+  ],
+  "name": "Zimbabwe ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "6E1EB0F8-39CF-484A-8926-D663E7E667A6",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
