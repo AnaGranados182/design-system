@@ -1,0 +1,95 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "5F3CD17D-4826-4FC7-98F8-26E046DBC993",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "6677413D-6C32-4352-8982-C89A68595AFA",
+  "documentState": {
+    "_class": "documentState",
+    "cloudShare": {
+      "createdAt": "2021-04-15T20:44:56.508Z",
+      "currentVersion": {
+        "createdAt": "2021-04-15T20:44:56.508Z",
+        "id": "7d02dd3f-cc26-429a-822d-27287ffbc87e",
+        "updatedAt": "2021-04-15T20:44:56.508Z"
+      },
+      "id": "5ebf2049-dfaa-4bd3-9369-afbb5302ff1c",
+      "isPrivate": 1,
+      "libraryEnabled": 1,
+      "name": "DP-icons-lib",
+      "owner": {
+        "__typename": "PublicUser",
+        "createdAt": "2021-04-05T20:46:34.938Z",
+        "hasPersonalIdentity": 0,
+        "id": "6f827410-bee2-4672-bfad-3f65fc0d4779",
+        "updatedAt": "2021-04-05T20:46:34.938Z"
+      },
+      "publicUrl": "https://sketch.cloud/s/5ebf2049-dfaa-4bd3-9369-afbb5302ff1c",
+      "shortId": "5ebf2049-dfaa-4bd3-9369-afbb5302ff1c",
+      "updatedAt": "2021-04-15T20:44:56.508Z",
+      "userCanEdit": 1,
+      "userIsMember": 0,
+      "viewerCanUpdate": 1
+    }
+  },
+  "fontReferences": [
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "F0113648-A185-40DB-92F5-BD2708B54E21",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "71.2",
+    "build": 115329,
+    "version": 136
+  },
+  "pages": [
+    "icon-colors",
+    "icons-maks"
+  ],
+  "patchInfo": {
+    "_class": "MSImmutablePatchInfo",
+    "baseVersionID": "7d02dd3f-cc26-429a-822d-27287ffbc87e",
+    "lastIntegratedPatchID": "fc2dddda-640c-4a8a-8238-0d0505418c6c"
+  },
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "29D92FC9-12F6-4FFD-A1E7-839BE83A8F98",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
